@@ -6,7 +6,20 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<button class="contactme">Instagram</button>
+<style>
+	.contactme{
+    	background: unset;
+    	border: 3px solid #4f968d;
+        padding: 8px 16px;
+       
+       	font-size: 12px;
+        font-weight: 600;
+        line-height: 14px;
+        text-transform: uppercase;
+        color: #4f968d;
+    }
+</style>][instagram]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [instagram]: https://www.instagram.com/brunanunes_02/
