@@ -1,7 +1,5 @@
 ### Hi there, I'm Bruna 👋
 
-## I'm a education lover also curious about technologies!
-
 - 🌱 I’m currently learning everything
 - 🥅 2021 Goals: Improve my skills at web development area
 - 👯 Fun fact: I love to do lists
