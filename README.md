@@ -13,7 +13,6 @@
 [<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">][instagram]
 [<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">][linkedin]
 
-[instagram]: https://www.instagram.com/abrunaanunes/
 [linkedin]: https://www.linkedin.com/in/abrunaanunes/
 
 <!--
