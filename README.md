@@ -1,6 +1,6 @@
 ### Hi there, I'm Bruna 👋
 
-- 🌱 I’m currently learning everything
+- 🌱 I’m currently learning new things
 - 🥅 2022 Goals: Improve my skills at web development area
 - 👯 Fun fact: I love to do lists
 
