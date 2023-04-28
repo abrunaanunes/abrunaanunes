@@ -1,7 +1,7 @@
 ### Hi there, I'm Bruna 👋
 
 - 🌱 I’m currently learning new things
-- 🥅 2022 Goals: Improve my skills at web development area
+- 🥅 2023 Goals: leave UTFPR!!!
 - 👯 Fun fact: I love to do lists
 
 ### Knowledge in
