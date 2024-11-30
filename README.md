@@ -2,8 +2,6 @@
 
 Software Developer with over four years of experience and a degree in Systems Analysis and Development from the Federal Technological University of Paraná. I have solid experience in the full software development lifecycle, from database design and modeling to the implementation and delivery of robust solutions.
 
-Working at Grupo Mercado Móveis, I am part of the innovation team, where I actively participate in the development of new features, performance improvements, system integrations, and customized solutions. I work with technologies such as PHP, Laravel, VueJS, and Docker, and I am committed to best development practices, including design patterns, SOLID principles, and agile methodologies.
-
 I am always looking to enhance my skills and apply innovative solutions, ensuring maximum efficiency and quality in every project.
 
 ### Knowledge in
